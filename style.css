@@ -1,7 +1,6 @@
-#subsection {
-    color:blue;
-}
-
-.main .list {
-    color:red;
+.Title {
+    color:black;
+    font-size: 40px;
+    font-weight:1000;
+    font-family: Arial, Helvetica, sans-serif;
 }
