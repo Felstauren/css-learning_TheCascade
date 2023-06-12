@@ -50,4 +50,10 @@
     line-height: 2cm;
 }
 
+.child {
+    color:black;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 1mm;
+}
 
