@@ -57,3 +57,11 @@
     line-height: 1mm;
 }
 
+.smaller.child {
+    color:black;
+    font-weight: 900;
+    font-size: 30px;
+    line-height: 2cm;
+
+}
+
